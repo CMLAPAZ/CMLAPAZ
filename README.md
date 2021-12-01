@@ -1,7 +1,7 @@
   - 👋 Hi, I’m @CMLAPAZ       
-- 👀 I’m interested in  aprender  GIThub
+- 👀 I’m interested  HTMLJava  Node
 - 🌱 I’m currently learning ... 
-- 💞️ I’m looking to  aprender  
+- 💞️ Me interesa avanzar y quisiera trabajar de lo que me gusta..  
 - 📫 How to reach me  
         
 <!---
