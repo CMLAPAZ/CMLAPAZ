@@ -1,5 +1,5 @@
   - 👋 Hi, I’m @CMLAPAZ       
-- 👀 I’m interested  HTML Java Node..  
+- 👀 I’m interested  HTML Java Node..Javascript  
 - 🌱 I’m currently learning ... 
 - 💞️ Me interesa avanzar y quisiera trabajar de lo que me gusta..  
 - 📫 How to reach me  
